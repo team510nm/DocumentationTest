@@ -1,0 +1,2 @@
+# DocumentationTest
+Testing auto documentation
